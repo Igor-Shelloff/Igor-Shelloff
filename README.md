@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Igor Shilov 👋
+### Full-Stack Developer | Founder of tgautoposter.com
 
-<!--
-**Igor-Shelloff/Igor-Shelloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building web applications, APIs, and SaaS products. 
+4+ years of experience in Python, JavaScript (React, Node.js), and PHP (Laravel).
 
-Here are some ideas to get you started:
+🌍 **Open to remote work worldwide and relocation (Europe, USA, Asia).**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Main Project
+**[tgautoposter.com](https://tgautoposter.com)** - A desktop app that automates Telegram channel posting.
+* Built with Python, PyQt, Telegram API, MySQL, Nginx.
+* 100+ organic users and 5 paying customers.
+
+### 🛠️ Tech Stack
+*   **Languages:** Python, JavaScript, PHP, HTML, CSS
+*   **Frameworks:** React, Node.js, Laravel, Tkinter
+*   **Databases:** MySQL, PostgreSQL
+*   **Tools:** Linux, Nginx, REST APIs, WebSockets, Git
+
+### 📫 How to reach me
+*   **Telegram:** [@igor_shelloff](https://t.me/igor_shelloff)
+*   **Email:** igor.shilov93@mail.ru
+*   **Website:** [tgautoposter.com](https://tgautoposter.com)
