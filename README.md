@@ -84,14 +84,6 @@
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Igor-Shelloff&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
 <div align="center">
   <i>Open to work and collaboration opportunities worldwide 🌍</i>
 </div>
